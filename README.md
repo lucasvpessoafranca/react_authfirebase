@@ -1,0 +1,1 @@
+Studying Firebase authentication through a React application
